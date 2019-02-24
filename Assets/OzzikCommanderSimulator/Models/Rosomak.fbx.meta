@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 1f0d1c2152dcc9e48a5c765fbe2f250f
+timeCreated: 1548041063
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: front_wheel1
+    100002: front_wheel2
+    100004: front_wheel3
+    100006: front_wheel4
+    100008: front_wheel5
+    100010: front_wheel6
+    100012: front_wheel7
+    100014: front_wheel8
+    100016: Kto_rosomak1
+    100018: Mesh1
+    100020: Mesh10
+    100022: Mesh11
+    100024: Mesh2
+    100026: Mesh3
+    100028: Mesh4
+    100030: Mesh5
+    100032: Mesh6
+    100034: Mesh7
+    100036: Mesh8
+    100038: Mesh9
+    100040: //RootNode
+    100042: ske7A70_1
+    100044: ske7A70_2
+    100046: ske7A70_3
+    100048: ske7A70_4
+    100050: ske7A70_5
+    100052: ske7A70_6
+    100054: ske7A70_7
+    100056: ske7A70_8
+    100058: U_B02003_1
+    100060: U_B02003_1_1
+    100062: Main
+    100064: Mesh12
+    100066: Turret1
+    400000: front_wheel1
+    400002: front_wheel2
+    400004: front_wheel3
+    400006: front_wheel4
+    400008: front_wheel5
+    400010: front_wheel6
+    400012: front_wheel7
+    400014: front_wheel8
+    400016: Kto_rosomak1
+    400018: Mesh1
+    400020: Mesh10
+    400022: Mesh11
+    400024: Mesh2
+    400026: Mesh3
+    400028: Mesh4
+    400030: Mesh5
+    400032: Mesh6
+    400034: Mesh7
+    400036: Mesh8
+    400038: Mesh9
+    400040: //RootNode
+    400042: ske7A70_1
+    400044: ske7A70_2
+    400046: ske7A70_3
+    400048: ske7A70_4
+    400050: ske7A70_5
+    400052: ske7A70_6
+    400054: ske7A70_7
+    400056: ske7A70_8
+    400058: U_B02003_1
+    400060: U_B02003_1_1
+    400062: Main
+    400064: Mesh12
+    400066: Turret1
+    2100000: Color_007
+    2100002: Color_001
+    2100004: Color_009
+    2100006: M_0137_Black
+    2100008: FrontColor
+    2100010: Metal_Steel_Textured
+    2100012: Metal_Steel_Textured_White
+    2100014: Translucent_Glass_Gold
+    2100016: Color_004
+    2100018: Translucent_Glass_Green_Dark
+    2100020: Fencing_Chain_Link
+    2100022: M_0020_Red
+    2100024: M_0075_ForestGreen
+    2100026: Translucent_Glass_Corrugated
+    2100028: Translucent_Resin_Crush_Gray
+    2100030: Metal_Corrogated_Shiny
+    2100032: M_0134_DimGray
+    2100034: M_0076_Green
+    2100036: Roofing_Shingles_Asphalt
+    2100038: Translucent_Glass_Block_Dark
+    2100040: Translucent_Glass_Blue
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh2
+    2300008: Mesh3
+    2300010: Mesh4
+    2300012: Mesh5
+    2300014: Mesh6
+    2300016: Mesh7
+    2300018: Mesh8
+    2300020: Mesh9
+    2300022: Mesh12
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh2
+    3300008: Mesh3
+    3300010: Mesh4
+    3300012: Mesh5
+    3300014: Mesh6
+    3300016: Mesh7
+    3300018: Mesh8
+    3300020: Mesh9
+    3300022: Mesh12
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
